@@ -1,0 +1,53 @@
+sudo: required
+
+language: node_js
+
+node_js: stable
+
+cache:
+    apt: true
+    directories:
+        - node_modules
+
+notifications:
+    email:
+        recipients:
+            - 982905676@qq.com
+        on_success: change
+        on_failure: always
+
+
+before_install:
+    - export TZ='Asia/HangZhou'
+    - npm install hexo-cli -g
+    - chmod +x ./publish-to-gh-pages.sh
+
+install:
+    - npm install
+    - npm install hexo-generator-searchdb --save
+    - npm install hexo-renderer-pug --save
+    - npm install hexo-renderer-sass --save
+    - npm install hexo-wordcount --save
+  # - npm install hexo-generator-feed --save
+  # - npm install hexo-deployer-git --save
+  # - npm install hexo-renderer-ejs --save
+  # - npm install hexo-renderer-stylus --save
+  # - npm install hexo-renderer-marked --save
+  # - npm install hexo-renderer-sass --save
+
+script:
+    - hexo clean
+    - hexo generate
+
+after_script:
+    - ./publish-to-gh-pages.sh
+
+# 指定博客源码分支，因人而异。hexo博客源码托管在独立repo则不用设置此项
+branches:
+    only:
+        - master
+
+env:
+    global:
+        # Github Pages
+        - GH_REF: github.com/lml2014/illusion.git
