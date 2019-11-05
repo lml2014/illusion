@@ -1,9 +1,31 @@
 <?xml version="1.0" encoding="utf-8"?>
 <search>
   <entry>
-    <title><![CDATA[hello-world]]></title>
-    <url>%2Fillusion%2F2019%2F07%2F18%2Fhello-world%2F</url>
-    <content type="text"><![CDATA[Welcome to Hexo! This is your very first post. Check documentation for more info. If you get any problems when using Hexo, you can find the answer in troubleshooting or you can ask me on GitHub. Quick StartCreate a new post1$ hexo new "My New Post" More info: Writing Run server1$ hexo server More info: Server Generate static files1$ hexo generate More info: Generating Deploy to remote sites1$ hexo deploy More info: Deployment]]></content>
+    <title>印度迷幻茶</title>
+    <url>/illusion/2019/08/12/%E5%8D%B0%E5%BA%A6%E8%BF%B7%E5%B9%BB%E8%8C%B6/</url>
+    <content><![CDATA[<h2 id="一"><a href="#一" class="headerlink" title="一"></a>一</h2><p>一到假期，往往都是没有正常事情可以做的，有的事情无非都是出去网吧，娱乐地方等等去玩玩。此时如果有个人提出去一个合理的刺激地方，往往大家都会去响应的，而此次的目的恰是如此，当有人提议去印度时，想到的不是危险，第一个感觉就是刺激，各种神奇事情。对于年轻的生命来说，这些倒是很吸引我们，当下决定出发。</p>
+<h2 id="二"><a href="#二" class="headerlink" title="二"></a>二</h2><p>大家都知道此次印度之行是十分险恶的，但是耐不住好奇，其实相比起来，更好奇的是我的朋友老三的女朋友小玉，她对于这些好奇的事情倒是十分上心，感兴趣。每次大街上遇到围观的事情，她都是第一个冲过去，想一探究竟的。平时，网吧，KTV也是会去的。朋友老三倒是很担心这个，管不住她了。也是小玉长的漂亮吧，总之这么多年来，也没遇到什么事情，就那么过来了。遇到这次假期她要求去印度，刚开始我们也都是反对的。但是耐不住软磨硬泡，让我也把女朋友带上，至此一想，四个人一起，互相都是认识，也有照应，应该是不怕的，也就出发了。</p>
+<h2 id="三"><a href="#三" class="headerlink" title="三"></a>三</h2><p>印度的路途倒是挺好玩的，当然也有网上说的各种危险存在，好在我们谨慎，也都一一度过了。</p>
+<p>TODO：遇到印度作法，安排和迷魂水。</p>
+]]></content>
+  </entry>
+  <entry>
+    <title>hello-world</title>
+    <url>/illusion/2019/07/18/hello-world/</url>
+    <content><![CDATA[<p>Welcome to <a href="https://hexo.io/" target="_blank" rel="noopener">Hexo</a>! This is your very first post. Check <a href="https://hexo.io/docs/" target="_blank" rel="noopener">documentation</a> for more info. If you get any problems when using Hexo, you can find the answer in <a href="https://hexo.io/docs/troubleshooting.html" target="_blank" rel="noopener">troubleshooting</a> or you can ask me on <a href="https://github.com/hexojs/hexo/issues" target="_blank" rel="noopener">GitHub</a>.</p>
+<h2 id="Quick-Start"><a href="#Quick-Start" class="headerlink" title="Quick Start"></a>Quick Start</h2><h3 id="Create-a-new-post"><a href="#Create-a-new-post" class="headerlink" title="Create a new post"></a>Create a new post</h3><figure class="highlight bash"><table><tr><td class="code"><pre><span class="line">$ hexo new <span class="string">"My New Post"</span></span><br></pre></td></tr></table></figure>
+
+<p>More info: <a href="https://hexo.io/docs/writing.html" target="_blank" rel="noopener">Writing</a></p>
+<h3 id="Run-server"><a href="#Run-server" class="headerlink" title="Run server"></a>Run server</h3><figure class="highlight bash"><table><tr><td class="code"><pre><span class="line">$ hexo server</span><br></pre></td></tr></table></figure>
+
+<p>More info: <a href="https://hexo.io/docs/server.html" target="_blank" rel="noopener">Server</a></p>
+<h3 id="Generate-static-files"><a href="#Generate-static-files" class="headerlink" title="Generate static files"></a>Generate static files</h3><figure class="highlight bash"><table><tr><td class="code"><pre><span class="line">$ hexo generate</span><br></pre></td></tr></table></figure>
+
+<p>More info: <a href="https://hexo.io/docs/generating.html" target="_blank" rel="noopener">Generating</a></p>
+<h3 id="Deploy-to-remote-sites"><a href="#Deploy-to-remote-sites" class="headerlink" title="Deploy to remote sites"></a>Deploy to remote sites</h3><figure class="highlight bash"><table><tr><td class="code"><pre><span class="line">$ hexo deploy</span><br></pre></td></tr></table></figure>
+
+<p>More info: <a href="https://hexo.io/docs/deployment.html" target="_blank" rel="noopener">Deployment</a></p>
+]]></content>
       <categories>
         <category>Hexo</category>
       </categories>
@@ -12,9 +34,10 @@
       </tags>
   </entry>
   <entry>
-    <title><![CDATA[主题maupassant]]></title>
-    <url>%2Fillusion%2F2019%2F07%2F18%2F%E4%B8%BB%E9%A2%98maupassant%2F</url>
-    <content type="text"><![CDATA[主题hexo有不少主题，之前使用过next主题了，这个辅助的，打算换个项目，本来想使用material主题的，但是官方的内容，拉取下来就报错了，哪个环境都不行。正好又看到这个主题，很是简洁了，就暂定采取此主题了。]]></content>
+    <title>主题maupassant</title>
+    <url>/illusion/2019/07/18/%E4%B8%BB%E9%A2%98maupassant/</url>
+    <content><![CDATA[<h2 id="主题"><a href="#主题" class="headerlink" title="主题"></a>主题</h2><p>hexo有不少主题，之前使用过next主题了，这个辅助的，打算换个项目，本来想使用material主题的，但是官方的内容，拉取下来就报错了，哪个环境都不行。正好又看到这个主题，很是简洁了，就暂定采取此主题了。</p>
+]]></content>
       <categories>
         <category>Hexo</category>
       </categories>
